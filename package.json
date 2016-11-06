@@ -1,14 +1,14 @@
 {
-  "name": "bitcore-build-dwcash",
+  "name": "bitcore-build-zclassic",
   "version": "0.5.4",
-  "description": "A helper for common tasks to build bitcore-dwcash modules'",
+  "description": "A helper for common tasks to build bitcore-zclassic modules'",
   "main": "index.js",
   "scripts": {
     "test": "gulp test"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/deepwebcash/bitcore-build-dwcash"
+    "url": "git://github.com/deepwebcash/bitcore-build-zclassic"
   },
   "keywords": [
     "bitcore"
@@ -33,9 +33,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/deepwebcash/bitcore-build-dwcash/issues"
+    "url": "https://github.com/deepwebcash/bitcore-build-zclassic/issues"
   },
-  "homepage": "https://github.com/deepwebcash/bitcore-build-dwcash",
+  "homepage": "https://github.com/deepwebcash/bitcore-build-zclassic",
   "dependencies": {
     "brfs": "^1.2.0",
     "browserify": "~13.1.0",
