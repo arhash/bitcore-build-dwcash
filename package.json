@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/deepwebcash/bitcore-build-zclassic"
+    "url": "git://github.com/arhash/bitcore-build-zclassic"
   },
   "keywords": [
     "bitcore"
@@ -33,9 +33,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/deepwebcash/bitcore-build-zclassic/issues"
+    "url": "https://github.com/arhash/bitcore-build-zclassic/issues"
   },
-  "homepage": "https://github.com/deepwebcash/bitcore-build-zclassic",
+  "homepage": "https://github.com/arhash/bitcore-build-zclassic",
   "dependencies": {
     "brfs": "^1.2.0",
     "browserify": "~13.1.0",
